@@ -1,0 +1,4 @@
+1. standardize with unix is googd.
+2. Old versions have the fixes or are pre bugs.
+3. save for failure. But tagged at points.
+4. organzationally, they are one chagne
